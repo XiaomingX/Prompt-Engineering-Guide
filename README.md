@@ -20,7 +20,6 @@ Prompt 工程是一门新兴学科，用于开发和优化提示（Prompt），�
 - [Prompt Engineering Guide 官方网页](https://www.promptingguide.ai/)
 - 详细教程、学习指南和工具集。
 
-```markdown
 ## 指南
 
 以下内容为提示工程相关的精华内容，帮助快速掌握常用技术和应用。更多信息请访问 [提示工程指南](https://www.promptingguide.ai/)。
